@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">787675970454</string>
+  <string name="google_storage_bucket" translatable="false">portaltestapp-9e29b.appspot.com</string>
+  <string name="project_id" translatable="false">portaltestapp-9e29b</string>
+  <string name="google_api_key" translatable="false">AIzaSyDOut0PNP5PNkjAoa4XLJNlYWceRrs7GmI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDOut0PNP5PNkjAoa4XLJNlYWceRrs7GmI</string>
+  <string name="google_app_id" translatable="false">1:787675970454:android:65f08395bb9f5a681e3bb7</string>
+</resources>
